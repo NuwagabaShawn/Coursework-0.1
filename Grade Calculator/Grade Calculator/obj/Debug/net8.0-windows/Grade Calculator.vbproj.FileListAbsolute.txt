@@ -1,0 +1,16 @@
+C:\Users\SEMINAR-ROOM\source\repos\Grade Calculator\Grade Calculator\bin\Debug\net8.0-windows\Grade Calculator.exe
+C:\Users\SEMINAR-ROOM\source\repos\Grade Calculator\Grade Calculator\bin\Debug\net8.0-windows\Grade Calculator.deps.json
+C:\Users\SEMINAR-ROOM\source\repos\Grade Calculator\Grade Calculator\bin\Debug\net8.0-windows\Grade Calculator.runtimeconfig.json
+C:\Users\SEMINAR-ROOM\source\repos\Grade Calculator\Grade Calculator\bin\Debug\net8.0-windows\Grade Calculator.dll
+C:\Users\SEMINAR-ROOM\source\repos\Grade Calculator\Grade Calculator\bin\Debug\net8.0-windows\Grade Calculator.pdb
+C:\Users\SEMINAR-ROOM\source\repos\Grade Calculator\Grade Calculator\obj\Debug\net8.0-windows\Grade_Calculator.Form1.resources
+C:\Users\SEMINAR-ROOM\source\repos\Grade Calculator\Grade Calculator\obj\Debug\net8.0-windows\Grade Calculator.vbproj.GenerateResource.cache
+C:\Users\SEMINAR-ROOM\source\repos\Grade Calculator\Grade Calculator\obj\Debug\net8.0-windows\Grade Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEMINAR-ROOM\source\repos\Grade Calculator\Grade Calculator\obj\Debug\net8.0-windows\Grade Calculator.AssemblyInfoInputs.cache
+C:\Users\SEMINAR-ROOM\source\repos\Grade Calculator\Grade Calculator\obj\Debug\net8.0-windows\Grade Calculator.AssemblyInfo.vb
+C:\Users\SEMINAR-ROOM\source\repos\Grade Calculator\Grade Calculator\obj\Debug\net8.0-windows\Grade Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\SEMINAR-ROOM\source\repos\Grade Calculator\Grade Calculator\obj\Debug\net8.0-windows\Grade Calculator.dll
+C:\Users\SEMINAR-ROOM\source\repos\Grade Calculator\Grade Calculator\obj\Debug\net8.0-windows\refint\Grade Calculator.dll
+C:\Users\SEMINAR-ROOM\source\repos\Grade Calculator\Grade Calculator\obj\Debug\net8.0-windows\Grade Calculator.pdb
+C:\Users\SEMINAR-ROOM\source\repos\Grade Calculator\Grade Calculator\obj\Debug\net8.0-windows\Grade Calculator.genruntimeconfig.cache
+C:\Users\SEMINAR-ROOM\source\repos\Grade Calculator\Grade Calculator\obj\Debug\net8.0-windows\ref\Grade Calculator.dll
